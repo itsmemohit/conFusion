@@ -68,7 +68,8 @@ body {
 }
 
 #reserveButton,
-.modal-header {
+.modal-header,
+.card-header {
     background-color: #512DA8;
     border: 1px solid #000000;
 }
